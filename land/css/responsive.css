@@ -1,0 +1,356 @@
+.display-none1{
+    display: none!important;
+}
+.fixator2{
+    display: none;
+}
+@media screen and (max-width: 1170px){
+    .form-img{
+        display: inline-block;
+        float: left;
+    }
+
+    .order_form .fixator{
+        display: none;
+    }
+    .bg_3 .fixed{
+        text-align: center;
+    }
+    .fixed {
+        width: 100%;
+    }
+
+    .bg_3 .yellow_marker{
+        margin-right: 37px;
+    }
+    .bg_3{
+        padding: 10px;
+        background-size: cover;
+        height: auto;
+    }
+    .points{
+        margin: 0;
+        padding: 10px;
+    }
+    .points > div{
+        width: 357px;
+    }
+    .about_item > div{
+        display: block;
+    }
+    .bg_4{
+        padding: 10px;
+        background-size: cover;
+        height: auto;
+    }
+    .bg_4 .fixed{
+        text-align: center;
+    }
+    #effect > div{
+        display: block;
+        margin: 20px auto;
+    }
+    #effect > img{
+        display: block;
+        margin: 20px auto;
+        max-width: 100%;
+    }
+    .bg_1{
+        padding: 10px;
+    }
+    #spec{
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    .benefits ul{
+        margin: 0 auto;
+    }
+    .benefits li{
+        width: 341px;
+    }
+
+    .steps{
+        padding: 10px;
+    }
+    .procedure{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .bg_1{
+        padding: 10px;
+    }
+    .why{
+        text-align: center;
+    }
+    .why > div{
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+    .complications{
+        padding: 10px;
+    }
+    .fixator{
+        right: 576px;
+        left: auto;
+    }
+    .order_form{
+        width: 754px;
+    }
+
+}
+.snoska{
+    margin-top: 6px;
+}
+@media screen and (max-width: 992px){
+    .order_form{
+        width: 690px;
+    }
+    .form-img{
+        display: inline-block;
+        float: left;
+        width: 186px;
+    }
+    .fixator{
+        left: auto;
+        width: 226px;
+        right: 535px
+    }
+    .bg_3 .title{
+        width: 734px;
+    }
+    .about_item > div{
+        width: auto;
+    }
+    .about_item p{
+        width: auto;
+        display: block;
+    }
+    .about_item p + span{
+        display: block;
+        margin: 18px auto;
+    }
+    .about_item span + p{
+        margin: 0 auto;
+    }
+    .display-none{
+        display: none!important;
+    }
+    .display-none1{
+        display: block!important;
+    }
+    #spec{
+        padding: 10px;
+    }
+    .benefits li{
+        display: block;
+        margin: 28px auto;
+        width: auto;
+    }
+    .benefits {
+        padding: 10px;
+    }
+    .bg_5{
+        height: auto;
+        background-size: cover;
+        padding: 10px;
+    }
+    .bg_5 .order_form{
+        width: 592px;
+    }
+    .bg_5 .order_form form{
+        margin-left: 79px;
+    }
+    .order_form h4{
+        font-size: 22px;
+    }
+    .step_1, .step_2, .step_r_1, .step_r_2{
+        width: 180px;
+        font-size: 16px;
+    }
+    .procedure > div{
+        width: 165px;
+        text-align: center;
+    }
+    .procedure > div + div{
+        width: 165px;
+        text-align: center;
+    }
+    .procedure > div + div + div{
+        width: 165px;
+        text-align: center;
+    }
+    .procedure > div + div + div + div{
+        width: 165px;
+        text-align: center;
+    }
+    .why > div{
+        display: block;
+        margin: 10px auto;
+    }
+    #complications .thumb{
+        margin: 10px;
+    }
+    #complications .thumb:nth-child(2n){
+        margin: 10px;
+    }
+    #complications img{
+        max-width: 100%;
+    }
+    .comment_body{
+        height: auto;
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .bg_3 .fixed{
+        padding-top: 20px;
+        height: auto;
+    }
+    .form-img{
+        display: none;
+    }
+    .order_form .fixator{
+        display: block;
+    }
+    .fixator{
+        position: static;
+        display: block;
+        margin: 0 auto;
+    }
+    .bg_3 .title{
+        width: auto;
+        font-size: 20px;
+        text-align: center;
+    }
+    .order_form{
+        width: 300px;
+        display: block;
+        margin: 10px auto;
+    }
+    .order_form form{
+        float: none;
+        margin: 0 auto;
+    }
+    .timer_box{
+        float: none;
+        margin: 20px auto 0;
+    }
+    .order_form h4{
+        font-size: 20px;
+        text-align: center;
+    }
+    .bg_4 .fixed{
+        height: auto;
+    }
+    #effect > div{
+        width: 89%;
+    }
+    .spec_top{
+        padding: 10px;
+    }
+    .alignright{
+        float: none;
+    }
+    .man{
+        display: none;
+    }
+    .spec_top{
+        min-height: auto;
+    }
+    #spec .title{
+        padding: 10px;
+    }
+    .spec_bottom > img{
+        margin: 0;
+        max-width: 100%;
+    }
+    .spec_bottom > p{
+        font-size: 113%;
+    }
+    .bg_5 .order_form > img{
+        position: static;
+        margin: 0 auto;
+    }
+    .fixator1{
+        display: none;
+    }
+    .fixator2{
+        display: block;
+        margin: 0 auto;
+    }
+    .bg_5 .order_form{
+        position: static;
+        height: auto;
+        width: 300px;
+    }
+    .bg_5 .order_form h4{
+        padding: 0;
+    }
+    .bg_5 .order_form form{
+        margin: 0 auto;
+    }
+    .bg_5 .fixed{
+        height: auto;
+    }
+    .fixed.box .title{
+        margin-bottom: 0px;
+    }
+    .steps_top{
+        background: none;
+        height: auto;
+    }
+    .step_1, .step_2, .step_r_1, .step_r_2{
+        position: static;
+        display: block;
+        margin: 25px auto;
+        text-align: left;
+        width: auto;
+    }
+    .steps_botom{
+        width: auto;
+    }
+    .procedure > div{
+        display: block!important;
+        margin: 0 auto!important;
+    }
+    .texiti{
+        display: none!important;
+    }
+
+}
+
+@media screen and (max-width: 480px){
+    .order_form{
+        width: auto;
+    }
+    .order_form form{
+        width:226px;
+    }
+    .order_form input[type="text"]{
+    }
+    .order_form input[type="submit"]{
+        width: 239px;
+    }
+    .bg_3 .title{
+        font-size: 18px;
+    }
+    .points > div{
+        width: 250px;
+    }
+    .about_item span{
+        width: 282px;
+        height: 282px
+    }
+    #effect > div {
+        width: 78%;
+
+    }
+    #effect > div p {
+        font-size: 112%;
+    }
+    .bg_5 .fixed .order_form{
+        padding: 20px 0px 30px 0px;
+    }
+}
